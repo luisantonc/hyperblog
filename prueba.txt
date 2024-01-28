@@ -2,4 +2,4 @@ Esto es una prueba en git
 
 vuelvo a guardar
 
-hoy hablaremos de HTML y CSS
+hoy hablaremos de HTML y CSS y Javascript 
