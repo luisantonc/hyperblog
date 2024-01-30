@@ -7,11 +7,27 @@ body{
     width: 70%;
     padding: 1em;
     text-align: left;
-    border: 1px solid white;
+    border: 1px solid black;
     margin: 0 auto;
 
 }
 
 #container h1{
 font-size: 20px;
+}
+
+#cabecera{
+    background: blue;
+    box-shadow:-1px 2px 47px -3px rgba(0,0,0,0.75); 
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 2em;
+    text-align: center;
+}
+
+#cabecera #tagline{
+    padding: 0 0 0 5em;
+    font-weight: normal;
+    font-size: 0.8em;
 }
