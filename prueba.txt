@@ -3,3 +3,5 @@ Esto es una prueba en git
 vuelvo a guardar
 
 Mañana nos enfocaremos en su vida laboral
+
+Luis tiene 46 años y nació en sucre
